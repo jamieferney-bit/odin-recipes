@@ -10,8 +10,8 @@
     <br>
     <a href="./recipes/beef-wellington.html">Beef Wellington</a>
     <br>
-    <a href="./recipes/beef-wellington.html">Bolognese</a>
+    <a href="./recipes/bolognese.html">Bolognese</a>
     <br>
-    <a href="./recipes/beef-wellington.html">Carbonara</a>
+    <a href="./recipes/carbonara.html">Carbonara</a>
 </body>
 </html>
